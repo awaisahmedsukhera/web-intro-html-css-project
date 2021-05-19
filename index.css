@@ -1,0 +1,30 @@
+.visit{color: white; font-size: large; 
+  padding: 20px;  margin: 50px;
+   background-color: #FF764E; border-radius: 15px;
+    display:inline}
+.park{color:white; font-size: large;
+   padding: 20px; margin: 50px;
+  background-color: #5ED3EB; border-radius: 15px;
+   display:inline}
+.getinvolved{color:white; font-size: large; 
+  padding: 20px; margin: 50px;
+  background-color: #FFCD69 ; border-radius: 15px;
+  display:inline}
+.yosemite{font-family: 'Chelsea Market', cursive;
+font-size: xx-large; display:inline}
+.comeexplore{font-family: 'Roboto Mono', monospace;
+font-size: x-large}
+.main{font-family: 'Roboto Mono', monospace;
+background-color: #DDB9A3;}
+.footer{
+  background-color: #F9E7DC
+}
+
+ img.rounded-corners{
+     border-radius: 50%;
+     display: inline;
+ }
+ .center{
+   text-align: center;
+   margin: 50px;
+ }
