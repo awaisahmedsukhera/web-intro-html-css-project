@@ -11,20 +11,31 @@
   background-color: #FFCD69 ; border-radius: 15px;
   display:inline}
 .yosemite{font-family: 'Chelsea Market', cursive;
-font-size: xx-large; display:inline}
+font-size: 75px; display:inline}
 .comeexplore{font-family: 'Roboto Mono', monospace;
-font-size: x-large}
+font-size: 30px}
 .main{font-family: 'Roboto Mono', monospace;
-background-color: #DDB9A3;}
+  font-size: 20px; color: white;
+background-color: #DDB9A3;
+margin: 20px }
 .footer{
+  padding: 50px;
   background-color: #F9E7DC
 }
 
  img.rounded-corners{
+    float: left;
      border-radius: 50%;
      display: inline;
  }
+main.clear{
+  clear:both;
+}
  .center{
    text-align: center;
    margin: 50px;
+ }
+ body {
+   border: 1px solid black;
+   text-align: center;
  }
