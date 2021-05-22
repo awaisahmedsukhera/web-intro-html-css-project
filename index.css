@@ -1,15 +1,26 @@
-.visit{color: white; font-size: large; 
+body {
+  border: 1px solid black;
+  text-align: center;
+}
+
+
+.bars{
+  display:flex;
+  justify-content: center;
+}
+
+.visit{color: white; font-size: 20px; 
+  font-family: 'Roboto Mono', monospace;
   padding: 20px;  margin: 50px;
-   background-color: #FF764E; border-radius: 15px;
-    display:inline}
-.park{color:white; font-size: large;
+   background-color: #FF764E; border-radius: 15px;}
+.park{color:white; font-size: 20px; 
+  font-family:'Roboto Mono', monospace;
    padding: 20px; margin: 50px;
-  background-color: #5ED3EB; border-radius: 15px;
-   display:inline}
-.getinvolved{color:white; font-size: large; 
+  background-color: #5ED3EB; border-radius: 15px;}
+.getinvolved{color:white; font-size: 20px; 
+  font-family: 'Roboto Mono', monospace;
   padding: 20px; margin: 50px;
-  background-color: #FFCD69 ; border-radius: 15px;
-  display:inline}
+  background-color: #FFCD69 ; border-radius: 15px;}
 .yosemite{font-family: 'Chelsea Market', cursive;
 font-size: 75px; display:inline}
 .comeexplore{font-family: 'Roboto Mono', monospace;
@@ -19,6 +30,7 @@ font-size: 30px}
 background-color: #DDB9A3;
 margin: 20px }
 .footer{
+  width: 100%;
   padding: 50px;
   background-color: #F9E7DC
 }
@@ -26,16 +38,4 @@ margin: 20px }
  img.rounded-corners{
     float: left;
      border-radius: 50%;
-     display: inline;
- }
-main.clear{
-  clear:both;
-}
- .center{
-   text-align: center;
-   margin: 50px;
- }
- body {
-   border: 1px solid black;
-   text-align: center;
  }
